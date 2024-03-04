@@ -1,0 +1,12 @@
+    #calculator {
+       border: 1px solid #000; 
+ border-radius: 25px;
+    background-color: rgba(77,79,81,255);
+     text-align: center;
+   }
+   
+   #calc-box{
+    text-align: center;
+   }
+  
+   
